@@ -21,6 +21,7 @@ body {
   background-color: blue;
   border-radius: 20px;
   color: white;
+  cursor: pointer;
 }
 
 .ls1 {
@@ -45,6 +46,7 @@ li {
   border: blue;
   color: white;
   padding: 3px 20px;
+  cursor: pointer;
 }
 
 .d03 {
@@ -54,6 +56,7 @@ li {
   color: white;
   border: brown;
   padding: 3px 20px;
+  cursor: pointer;
 }
 
 .d04 {
@@ -63,6 +66,7 @@ li {
   padding: 3px 20px;
   color: white;
   border: orange;
+  cursor: pointer;
 }
 
 .d000 {
