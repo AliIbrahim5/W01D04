@@ -1,0 +1,87 @@
+body {
+  background-image: url(./tree.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: ;
+
+  /* width: %;
+
+height: 100%; */
+}
+
+.a01 {
+  float: right;
+}
+.aa1 {
+  padding: 10px;
+}
+
+h1 {
+  display: inline;
+}
+
+.a11 {
+  color: goldenrod;
+}
+
+a:hover {
+  align-items: ;
+
+  color: black;
+}
+a {
+  color: black;
+}
+
+li {
+  display: flex;
+  display: inline;
+  padding: 20px;
+}
+
+.a00 {
+  margin-bottom: 100%;
+}
+
+#ali1 {
+  font-weight: bold;
+  font-family: fantasy;
+  text-align: left;
+}
+#ali2 {
+  line-height: 1.5em;
+
+  font-family: "Courier New", Courier, monospace;
+}
+#ali22 {
+  margin-bottom: ;
+}
+
+.x10 {
+  text-align: left;
+  padding-top: 50%;
+}
+
+.xx1 {
+  height: 30px;
+}
+
+#ss00 {
+  color: white;
+  border: black;
+}
+
+button {
+  background-color: black;
+}
+
+c1 {
+  color: ;
+  background-color: black;
+  color: goldenrod;
+}
+
+c2 {
+  color: black;
+}
