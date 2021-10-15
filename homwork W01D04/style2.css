@@ -29,10 +29,14 @@ margin-left: 20%;
 }
 
 .b1{
-border-style: double;
+border-top: solid orangered;
  border-bottom: 40px;
- margin-top: 5%;
+ margin: 5% 2%;
  width: 300px;
+ border-right: 1px solid gray; 
+
+ border-left: 1px solid gray;
+ border-bottom: 1px solid gray;
  
  
 }
@@ -49,7 +53,7 @@ padding: 20px;
 
 
 margin-left: 25%;
-
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.315)
 }
 .icon{
     margin: auto;
