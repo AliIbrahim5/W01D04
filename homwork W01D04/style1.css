@@ -2,20 +2,19 @@ body {
   /* background-image: url(tree.jpg); */
   background-image: url(./tree.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+
   background-size: cover;
-  
 
   /* width: %;
 
 height: 100%; */
 }
 
-.a01 {
+.nav-list {
   float: right;
   text-decoration: none;
 }
-.aa1 {
+.cards {
   padding: 10px;
 }
 
@@ -23,13 +22,11 @@ h1 {
   display: inline;
 }
 
-.a11 {
+.nav {
   color: goldenrod;
 }
 
 a:hover {
-  
-
   color: black;
 }
 a {
@@ -43,34 +40,31 @@ li {
   padding: 20px;
 }
 
-.a00 {
-  margin-bottom: 100%;
+.main-prog {
+  padding-bottom: 80%;
 }
 
-#ali1 {
+#content-text1 {
   font-weight: bold;
   font-family: fantasy;
   text-align: left;
 }
-#ali2 {
+#text {
   line-height: 1.5em;
 
   font-family: "Courier New", Courier, monospace;
 }
-#ali22 {
-  
-}
 
-.x10 {
+.content-text {
   text-align: left;
-  padding-top: 50%;
+  margin-top: 15%;
 }
 
-.xx1 {
+.btn {
   height: 30px;
 }
 
-#ss00 {
+#buttoncolor {
   color: white;
   border: black;
   text-decoration: none;
@@ -78,15 +72,4 @@ li {
 
 button {
   background-color: black;
-}
-
-c1 {
-  
-  background-color: black;
-  color: goldenrod;
-}
-
-c2 {
-  color: black;
-  text-decoration: none;
 }
