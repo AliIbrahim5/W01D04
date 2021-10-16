@@ -1,71 +1,48 @@
-
-
-
-.a1{
-
- margin-left: 40%;
-
-
+.main {
+  margin-left: 40%;
 }
 
-.prog{
-font-size: 100% ;
-width: 50%;
-margin-left: 20%;
+.prog {
+  font-size: 100%;
+  width: 35%;
 
- 
- text-align: center;
-
+  font-family: cursive;
+  
+  margin-left: 27%;
+  text-align: center;
 }
-.cont
-{
+.cont {
+  display: inline-flex;
 
-
- display: inline-flex;
-
- margin-left: 18%;
-
-
+  margin-left: 18%;
 }
 
-.b1{
-border-top: solid orangered;
- border-bottom: 40px;
- margin: 5% 2%;
- width: 300px;
- border-right: 1px solid gray; 
+.cards {
+  border-top: solid orangered;
+  border-bottom: 40px;
+  margin: 5% 2%;
+  width: 300px;
+  border-right: 1px solid gray;
+  box-shadow: 3px 3px 3px 2px #22212121;
 
- border-left: 1px solid gray;
- border-bottom: 1px solid gray;
- 
- 
+
+  border-left: 1px solid gray;
+  border-bottom: 1px solid gray;
 }
 
-.prog1{
-
-
-
-padding: 20px;
-
+.prog1 {
+  padding: 20px;
 }
 
-.hadeeing{
-
-
-margin-left: 25%;
-text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.315)
+.hadeeing {
+  margin-left: 23%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.315);
 }
-.icon{
-    margin: auto;
-    width: auto;
-    border-bottom: 2px  orange solid;
-    border-width: 3%;
+.icon {
+  margin: auto;
+  width: 10%;
+  border-bottom: 2px orange solid;
+  border-width: 3%;
 
-    
-    text-align: center;
-    
+  text-align: center;
 }
-
-
-
-
