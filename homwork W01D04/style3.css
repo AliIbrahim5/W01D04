@@ -1,0 +1,96 @@
+body {
+  height: auto;
+  width: 100%;
+}
+.nav {
+  position: absolute;
+  height: 100%;
+
+  width: 45%;
+  margin-left: 5%;
+}
+p {
+  width: 40%;
+}
+.header {
+  width: 50%;
+  border-bottom: 2px orange solid;
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  text-align: center;
+}
+h6 {
+  margin-left: 4%;
+}
+
+.textbottom {
+  position: absolute;
+  margin-top: 40%;
+  border-style: double;
+  width: 90%;
+  height: 9%;
+  text-align: center;
+  margin-left: 5%;
+  color: white;
+  background-color: rgba(78, 69, 69, 0.918);
+}
+
+.textcolor {
+  color: goldenrod;
+  position: absolute;
+  text-align: center;
+  margin-left: 72%;
+}
+
+#gg {
+  color: indianred;
+}
+
+img {
+  width: 45%;
+}
+
+.img-iconcall {
+  position: absolute;
+  width: 6%;
+  margin-top: 1.5%;
+}
+
+.img-icon {
+  position: absolute;
+  width: 6%;
+  margin-top: %;
+}
+
+.input {
+}
+
+.main {
+  position: absolute;
+  left: 50%;
+
+  height: 100%;
+  width: 50%;
+}
+
+input {
+  display: block;
+  justify-content: space-between;
+  margin-bottom: 40px;
+
+  width: 50%;
+  border-top: solid rgba(1, 1, 1, 0.151);
+  border-bottom: solid rgba(1, 1, 1, 0.151);
+  border-right: solid rgba(1, 1, 1, 0.151);
+  border-left: solid rgba(1, 1, 1, 0.151);
+
+  height: 100%;
+}
+.inp-message {
+  padding: 0% 50px 50px 0%;
+}
+
+button {
+  color: goldenrod;
+  background-color: rgba(78, 69, 69, 0.918);
+}
